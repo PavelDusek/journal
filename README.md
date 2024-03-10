@@ -1,1 +1,1 @@
-utils to make journal organization more easy 
+utils to make journal organization easier
